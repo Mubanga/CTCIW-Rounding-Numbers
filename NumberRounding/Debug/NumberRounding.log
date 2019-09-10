@@ -1,0 +1,3 @@
+﻿  NumberRounding.cpp
+c:\users\muban\bbd prep\arrays and strings\number rounding\numberrounding\numberrounding\numberrounding.cpp(36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  NumberRounding.vcxproj -> C:\Users\muban\BBD Prep\Arrays and Strings\Number Rounding\NumberRounding\Debug\NumberRounding.exe
